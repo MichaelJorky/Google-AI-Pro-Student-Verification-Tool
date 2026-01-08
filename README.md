@@ -1,4 +1,4 @@
-# **Google AI Pro Student Verifier**
+# **Google AI Pro Student Verification Tool**
 
 ## 🎯 **Deskripsi**
 
