@@ -249,6 +249,9 @@ Jika tool ini membantu Anda, pertimbangkan untuk mendukung pengembangan:
 3. **Syarat dan Ketentuan**  
    https://support.google.com/gemini/answer/16417758#eligibility
 
+4. **Recommended**  
+   [SheerID Verification Assistant via Web](https://ip123.in/sheerid/)   
+
 ### **Teknologi yang Digunakan:**
 - **SheerID API**: REST API v2 untuk verifikasi
 - **Python httpx**: HTTP client modern
